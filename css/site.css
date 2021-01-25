@@ -1,0 +1,14 @@
+h1 {
+  color:#645be3;
+  font-size: 300%;
+  font-family: fantasy;
+  border: solid;
+  style: inline;
+}
+body {
+  background-color: #bab5ff;
+  color: purple;
+  font-family: cursive;
+}
+ul {float: left;}
+img {border: dotted;}
