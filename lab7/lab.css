@@ -1,0 +1,40 @@
+body {
+  background-color: #F5D825;
+}
+
+h1 {
+  padding-left: 40px;
+  color: #fa702f;
+  text-shadow: 2px 2px #3B1A0B;
+  font-family: 'Sofia';
+}
+
+h3 {
+  background-color: #F6FAEB;
+  color: #fa9d07;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h2 {
+  color: #f56e25;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+img {
+  float: right;
+  padding-right: 30px;
+}
+p {
+  background-color: #b5f5e2
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
