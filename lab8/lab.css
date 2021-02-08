@@ -1,0 +1,38 @@
+body {
+  background-color: #bbe2f2;
+}
+
+h1 {
+  padding-left: 40px;
+  color: #7f99f0;
+  text-shadow: 2px 2px #3B1A0B;
+  font-family: 'Sofia';
+}
+
+h3 {
+  background-color:#f2daf7;
+  color: #99aef0;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h2 {
+  color: #737bc9;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+p {
+  background-color: #b5f5e2;
+  color: #070e5e;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
